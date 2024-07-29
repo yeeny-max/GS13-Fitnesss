@@ -1,0 +1,36 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"e" = (/obj/structure/stone_tile/center,/turf/closed/indestructible/riveted/boss,/area/lavaland/surface/outdoors)
+"h" = (/obj/structure/stone_tile/block/burnt{dir = 1},/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface/outdoors)
+"m" = (/obj/structure/stone_tile/surrounding,/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface/outdoors)
+"s" = (/turf/open/lava/smooth,/area/lavaland/surface/outdoors)
+"v" = (/obj/structure/stone_tile/surrounding,/mob/living/simple_animal/hostile/asteroid/hivelord/legion/tendril,/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface/outdoors)
+"y" = (/mob/living/simple_animal/hostile/asteroid/hivelord/legion/tendril,/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface/outdoors)
+"B" = (/obj/structure/stone_tile/block/burnt,/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface/outdoors)
+"F" = (/obj/structure/stone_tile/slab/burnt,/turf/open/lava/smooth,/area/lavaland/surface/outdoors)
+"I" = (/obj/structure/stone_tile/slab/burnt,/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface/outdoors)
+"M" = (/obj/structure/stone_tile/block/burnt{dir = 1},/turf/open/lava/smooth,/area/lavaland/surface/outdoors)
+"R" = (/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface/outdoors)
+"X" = (/obj/structure/stone_tile/block/burnt,/turf/open/lava/smooth,/area/lavaland/surface/outdoors)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaRRRRaaaaaa
+aaaaRRRRRRRRRRaaaaaa
+aaaRRsssssssRRRaaaaa
+aRRRssRRRRssRRRRaaaa
+aRReMMMhehMMMeRRaaaa
+aRRRFFIIvIFFIRRRRaaa
+aRRRIFFFmIIFFRRRRaaa
+aRReXXXXeBXXXeRRRaaa
+aaRRssssRRsssRRRRaaa
+aaRsssssssssRRRRRaaa
+aaRsssssssssRRaaaaaa
+aaRRsssssssRRaaaRaaa
+aaaRRsRssRRRaaaRRaaa
+aaaRRRRRRRRaaaRRRaaa
+aaaaaRRRRRaaaRRRRaaa
+aaaaaaRRRaaaRRRRaaaa
+aaaaaaaaaaaRRRyRaaaa
+aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa
+"}
